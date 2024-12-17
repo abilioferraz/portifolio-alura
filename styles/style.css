@@ -68,5 +68,9 @@ body{
     border: 2px solid #22D4FD;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 16px;
+}
+
+.botao:hover {
+    background-color: #272727;
 }
