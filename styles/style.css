@@ -74,3 +74,12 @@ body{
 .botao:hover {
     background-color: #272727;
 }
+
+.rodape {
+    color: #000000;
+    background-color: #22D4FD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
